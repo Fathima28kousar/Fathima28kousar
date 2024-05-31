@@ -19,8 +19,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fathima28kousar&show_icons=true&locale=en" alt="Fathima28kousar"  width="500" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<div align="center">
+<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Fathima28kousar&](https://github-readme-streak-stats.herokuapp.com/?user=Fathima28kousar&theme=dark&hide_border=false&background=0D1117&stroke=30363D&ring=68D391&currStreakLabel=68D391&currStreakNum=68D391&sideLabels=68D391&fire=68D391&border=68D391)" alt="Fathima28kousar" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fathima28kousar&" alt="Fathima28kousar" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fathima28kousar&show_icons=true&locale=en&layout=compact" alt="Fathima28kousar" /></p>
