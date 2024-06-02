@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Fathima kousar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="margin-bottom: 25px;"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="margin: 25px;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fathima28kousar&label=Profile%20views&color=0e75b6&style=flat" alt="Fathima28kousar" /> </p>
 
